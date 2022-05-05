@@ -1,5 +1,5 @@
-# Patika - Bootstrap Eğitimi ( Medium Clone )
-Bu repo [Patika](http://www.patika.dev) sitesi bootstrap eğitimi Medium clone çalışması için oluşturulmuştur.
+# Patika - Bootstrap Eğitimi ( Linkedin Clone )
+Bu repo [Patika](http://www.patika.dev) sitesi bootstrap eğitimi Linkedin clone çalışması için oluşturulmuştur.
 
 
 # Ekran Görüntüleri
